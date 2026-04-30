@@ -1,4 +1,3 @@
-# multi-agent-observability
 # Multi-Agent Observability Module
 
 **Type:** Product Concept | AI Infrastructure | Developer Tools  
